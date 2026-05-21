@@ -1,6 +1,6 @@
 {
-  "debian": 0,
-  "fedora": 0,
+  "debian": 1,
+  "fedora": 1,
   "arch": 0,
   "windows": 0
 }
